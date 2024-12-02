@@ -1,7 +1,7 @@
 {
-  "name": "rishav-chanda-portfolio",
+  "name": "sateesh-kumar-kollati-portfolio",
   "version": "0.1.0",
-  "homepage": "https://rishavchanda.github.io",
+  "homepage": "",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
@@ -50,5 +50,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "webpack-bundle-analyzer": "^4.10.2"
   }
 }
